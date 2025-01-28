@@ -6,3 +6,9 @@
 
 ### Favolite
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+### Deepseek
+- 1. https://ollama.com/download
+- 2. https://ollama.com/library/deepseek-r1:14b
+- 3. ollama pull deepseek-r1:14b
+- 4. ollama run deepseek-r1:14b
